@@ -1,4 +1,4 @@
-Facial recon open lock - Raspberry Pi4 - Raspberry OS Bullseye.
+Facial recon door lock - Raspberry Pi4 - Raspberry OS Bullseye.
 
 Ready to run in Python3.
 
